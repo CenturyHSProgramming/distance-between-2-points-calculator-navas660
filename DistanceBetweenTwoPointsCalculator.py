@@ -1,5 +1,5 @@
 # DistanceBetweenPointsCalculator.py
-# Your job is to write a function in ConeVolumeCalculator.py (call
+# Your job is to write a function in DistanceBetweenPointsCalculator.py (call
 # it **calculateDistanceBetween()** that calculates the distance between two points
 # in 2D space (x1, y1) and (x2, y2)
 # factor based on The Distance Formula
