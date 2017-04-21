@@ -3,6 +3,8 @@ A Python 3 Math challenge using unit tests.
 **Goal:**
 ----------
 Write a python function that calculates the distance between 2 points on a 2D cartesian grid (x1, y1) & (x2, y2)
+Based on The Distance Formula
+[# mathwarehouse.com] (http://www.mathwarehouse.com/algebra/distance_formula/index.php)
 
 **Inputs:**
 ----------
