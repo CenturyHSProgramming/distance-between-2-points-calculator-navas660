@@ -5,6 +5,7 @@
 # based on The Distance Formula
 # mathwarehouse.com (http://www.mathwarehouse.com/algebra/distance_formula/index.php)
 
+
 import math
 
 # Define Function below
@@ -16,9 +17,12 @@ def calculateDistanceBetween(x1, y1, x2, y2):
     distance = round(distance, 2)
     return distance
 
+
 if __name__ == '__main__':
     # Call the function in here if you want to test it
     # Make sure it's indented
+
     answer = calculateDistanceBetween(6, 8, 0, 0)
     print(answer)
     
+
