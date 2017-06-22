@@ -4,7 +4,9 @@
 # in 2D space (x1, y1) and (x2, y2)
 # based on The Distance Formula
 # mathwarehouse.com (http://www.mathwarehouse.com/algebra/distance_formula/index.php)
+
 import math
+
 # Define Function below
 # be sure to return an integer
 def calculateDistanceBetween(x1, y1, x2, y2):
